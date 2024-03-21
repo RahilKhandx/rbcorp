@@ -1,0 +1,10 @@
+body{
+    background-image: url("../image/beyonist-image.webp");
+    background-position: fixed;
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.hero{
+    background: transparent !important;
+}
